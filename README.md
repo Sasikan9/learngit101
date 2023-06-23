@@ -6,5 +6,5 @@
 1. แล็บ Git
 2. led HTML
 
-(![image]![image](https://github.com/Sasikan9/learngit101/assets/137468810/48106ae7-bdd0-44bb-92e6-db83f5d45616)
+(![image](https://github.com/Sasikan9/learngit101/assets/137468810/48106ae7-bdd0-44bb-92e6-db83f5d45616)
 
